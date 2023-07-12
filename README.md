@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsingwireAndrew
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on a school prohect webiste
+- 💞️ I’m looking to collaborate on a school prohjct website
 - 📫 How to reach me brightandrew@live.com
 
 <!---
